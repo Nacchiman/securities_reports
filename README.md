@@ -1,0 +1,2 @@
+# securities_reports
+EdinetAPIからExcel上の企業群の有報をDLし、指定した指標をExcelに出力する。
